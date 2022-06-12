@@ -3,7 +3,7 @@
 ![171544473-4275319c-7286-4079-9489-906d36feb97e](https://user-images.githubusercontent.com/99570559/173173538-8294a545-82e1-44fa-9658-6641d3f25425.png)
 
 
-[**Our Dataset**](https://drive.google.com/drive/folders/1-0GS28OsZP-9gCzx23shKh8xzz6YP9fk?usp=sharing
+[**Our Dataset**](https://drive.google.com/drive/folders/1-0GS28OsZP-9gCzx23shKh8xzz6YP9fk?usp=sharing)
 *Resource*
 [Kaggle](https://www.kaggle.com/datasets/rutviklathiyateksun/acne-grading-classificationdataset/code)
 [DermNet Nz](https://dermnetnz.org/image-library)
