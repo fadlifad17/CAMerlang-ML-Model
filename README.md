@@ -4,7 +4,8 @@
 
 
 [**Our Dataset**](https://drive.google.com/drive/folders/1-0GS28OsZP-9gCzx23shKh8xzz6YP9fk?usp=sharing)
-*Resource*
-[Kaggle](https://www.kaggle.com/datasets/rutviklathiyateksun/acne-grading-classificationdataset/code)
-[DermNet Nz](https://dermnetnz.org/image-library)
-[Google Image](https://www.google.com/search?q=jerawat+dan+komedo&tbm=isch&ved=2ahUKEwjc4_CY_af4AhVZFLcAHeC8C9AQ2-cCegQIABAA&oq=jerawat+dan+kom&gs_lcp=CgNpbWcQARgAMgUIABCABDIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBToECAAQEzoECCMQJzoECAAQAzoICAAQgAQQsQM6CAgAELEDEIMBOgsIABCABBCxAxCDAVCtCFjeLWCSNWgAcAB4AIAB1gGIAYEIkgEGMTUuMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=lOSlYtzJI9mo3LUP4PmugA0&bih=648&biw=1280&rlz=1C1CHBD_idID880ID880)
+
+_Resource_
+1. [Kaggle](https://www.kaggle.com/datasets/rutviklathiyateksun/acne-grading-classificationdataset/code)
+2. [DermNet Nz](https://dermnetnz.org/image-library)
+3. [Google Image](https://www.google.com/search?q=jerawat+dan+komedo&tbm=isch&ved=2ahUKEwjc4_CY_af4AhVZFLcAHeC8C9AQ2-cCegQIABAA&oq=jerawat+dan+kom&gs_lcp=CgNpbWcQARgAMgUIABCABDIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBTIGCAAQHhAFMgYIABAeEAUyBggAEB4QBToECAAQEzoECCMQJzoECAAQAzoICAAQgAQQsQM6CAgAELEDEIMBOgsIABCABBCxAxCDAVCtCFjeLWCSNWgAcAB4AIAB1gGIAYEIkgEGMTUuMC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=lOSlYtzJI9mo3LUP4PmugA0&bih=648&biw=1280&rlz=1C1CHBD_idID880ID880)
